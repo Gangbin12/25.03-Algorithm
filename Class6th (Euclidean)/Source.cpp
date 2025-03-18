@@ -32,6 +32,9 @@ int main()
     // 2개의 자연수 또는 정식의 최대 공약수를 구하는 방식으로 
     // 두 수가 서로 상대방 수를 나누어서 원하는 수를 얻어내는 알고리즘입니다.
 
+    int a = 106;
+    int b = 16;
+
     cout << euclid(24, 48) << endl;
 
 #pragma endregion

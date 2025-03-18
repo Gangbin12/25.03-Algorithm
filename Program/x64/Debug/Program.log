@@ -1,0 +1,4 @@
+﻿  Program.cpp
+C:\Users\Administrator\Desktop\25.03-Algorithm\Program\Program.cpp(27,21): warning C4305: '인수': '__int64'에서 'int'(으)로 잘립니다.
+C:\Users\Administrator\Desktop\25.03-Algorithm\Program\Program.cpp(27,21): warning C4309: '인수': 상수 값이 잘립니다.
+  Program.vcxproj -> C:\Users\Administrator\Desktop\25.03-Algorithm\Program\x64\Debug\Program.exe
